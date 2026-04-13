@@ -1,9 +1,9 @@
 
-# https://hub.docker.com/repository/docker/rardcode/chrony/tags
+# https://hub.docker.com/repository/docker/gianlucavagnuzzi/chrony/tags
 
 services:
   chrony:
-    image: rardcode/chrony
+    image: gianlucavagnuzzi/chrony
     container_name: chrony
     #environment:
       #- ALLOW_CIDR=0.0.0.0/0 # clients to connect and get the time. Default is none.
