@@ -37,6 +37,9 @@ docker exec chrony /bin/sh -c "chronyc sources"
 ```
 
 ## Changelog
+### v3234.48r2 - 23.04.2026
+- Alpine v.3.23.4
+
 ### v3233.48r2 - 20.03.2026
 - Alpine v.3.23.3
 - Chrony v.4.8-r2
